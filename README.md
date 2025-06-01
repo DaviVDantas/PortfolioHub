@@ -31,7 +31,7 @@ portfoliohub/
 ├── github/ # Prints da estrutura do GitHub e histórico de commits
 ├── site/ # print do Google Site criado
 ├── video_apresentacao/ # Link do vídeo de apresentação
-└── README.md # Este arquivo com a descrição completa do projeto
+└── README.md 
 
 ---
 
